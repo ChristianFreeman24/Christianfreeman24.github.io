@@ -3,4 +3,20 @@
 ---Color-2: #9929EA;
 ---Color-3: #CC66DA;
 ---Color-4: #FAEB92:var(---Color-1)
+} 
+nav{
+    background-color: #000000;
+} 
+nav a {
+    text-decoration: none;
+    color: #fff9f9;
+    padding: 12px;;
+    display: inline-block
+    ;
+} 
+
+nav a:hovor{
+    background: #9929EA;
+
 }
+    
