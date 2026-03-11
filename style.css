@@ -19,4 +19,10 @@ nav a:hovor{
     background: #9929EA;
 
 }
-    
+body{
+    background-color: aqua;
+}
+
+.me{
+    border-radius: 300px;
+}
